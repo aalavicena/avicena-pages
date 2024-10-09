@@ -15,14 +15,14 @@ taxonomies:
 menu:
     main:
         - name: CV
-          url: cv/
+          url: /cv/
           weight: 1
         - name: Projects
-          url: papers/
+          url: /papers/
           weight: 2
-        - name: Teaching
-          url: courses/
-          weight: 3
+#        - name: Teaching
+#          url: /courses/
+#          weight: 3
 
 params:
     description: "I am a PhD student in Economics at Purdue University."
@@ -58,7 +58,7 @@ params:
           imageTitle: 
           buttons:
             - name: Job Market Paper
-              url: /BMDFM.pdf
+              url: "/BMDFM.pdf"
             - name: CV
               url: "/CV_0929.pdf"   
     socialIcons:
