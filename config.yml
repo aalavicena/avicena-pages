@@ -1,0 +1,88 @@
+baseURL: "https://yangkeunyun.github.io/" 
+title: Yangkeun Yun
+paginate: 20
+theme: PaperMod
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+
+social:
+    twitter: 
+
+taxonomies:
+    tag: tags
+
+menu:
+    main:
+        - name: Papers
+          url: /papers/
+          weight: 1  
+        - name: CV
+          url: /cv-yangkeun-yun.pdf
+          weight: 2
+
+params:
+    description: "I am a PhD student in Economics at the UCLA Anderson School of Management."
+    author: Yangkeun Yun
+    googleAnalyticsID: "G-D54BS9DFQ6"
+    DateFormat: "January 2006"
+    defaultTheme: light
+    hideFooter: true
+    disableThemeToggle: true
+    ShowShareButtons: false
+    ShowReadingTime: false
+    disableSpecial1stPost: true
+    disableAnchoredHeadings: true
+    ShowPostNavLinks: false
+    ShowBreadCrumbs: false
+    ShowCodeCopyButtons: true
+    ShowRssButtonInSectionTermList: false
+    ShowToc: false
+    disableScrollToTop: true
+    TocOpen: true
+    ShowWordCount: false
+    UseHugoToc: true
+    comments: false
+    math: true
+    profileMode:
+          enabled: true
+          title: Yangkeun Yun
+          subtitle: "I am a PhD candidate in economics at UCLA Anderson. My research fields are industrial organization and environmental economics."
+          imageUrl: "/yun_yangkeun.jpeg"
+          imageWidth: 160
+          imageHeight: 160
+          imageTitle: 
+          buttons:
+            - name: Papers
+              url: /papers/
+            - name: CV
+              url: "/cv-yangkeun-yun.pdf"   
+    socialIcons:
+        - name: Email
+          url: mailto:yangkeun.yun.phd@anderson.ucla.edu
+        - name: GitHub
+          url: https://github.com/yangkeunyun
+
+    assets:
+        disableHLJS: true
+        disableScrollBarStyle: true
+    cover:
+        hiddenInList: true
+        hiddenInSingle: true
+    label:
+      text: "Yangkeun Yun"
+      icon: /favicon-whale.ico
+      iconHeight: 18
+
+markup:
+    goldmark:
+        renderer:
+            unsafe: true
+    highlight:
+        guessSyntax: true
+        style: xcode
+    tableOfContents:
+        endLevel: 2
+        ordered: false
+        startLevel: 2
+
