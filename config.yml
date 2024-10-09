@@ -15,7 +15,7 @@ taxonomies:
 menu:
     main:
         - name: Job Market Paper
-          url: https://arxiv.org/pdf/2409.08354
+          url: /BMDFM.pdf/
           weight: 1  
         - name: Projects
           url: /papers/
