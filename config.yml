@@ -17,6 +17,8 @@ menu:
         - name: Job Market Paper
           url: https://arxiv.org/pdf/2409.08354
           weight: 1  
+        - name: Projects
+          url: /papers/
         - name: CV
           url: /CV_0919.pdf
           weight: 2
