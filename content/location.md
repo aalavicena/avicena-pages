@@ -11,9 +11,9 @@ description: "My mailing and office addresses at Purdue University."
 
 #### Mailing address
 
-Economics Department  
-Purdue University 
-403 Mitch Daniels Blvd
+Department of Economics  <br>
+Purdue University <br>
+403 Mitch Daniels Blvd<br>
 West Lafayette, IN 47906
 
 ---
