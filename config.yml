@@ -14,8 +14,8 @@ taxonomies:
 
 menu:
     main:
-        - name: Papers
-          url: /papers/
+        - name: Job Market Paper
+          url: https://arxiv.org/pdf/2409.08354
           weight: 1  
         - name: CV
           url: /CV_0919.pdf
@@ -48,13 +48,13 @@ params:
           enabled: true
           title: Wei Zhang
           subtitle: "I am a PhD candidate in economics at Purdue University. My research fields are Bayesian time series."
-          imageUrl: "/yun_yangkeun.jpeg"
+          imageUrl: "/temp_photo.jpg"
           imageWidth: 160
           imageHeight: 160
           imageTitle: 
           buttons:
             - name: Job Market Paper
-              url: /papers/
+              url: https://arxiv.org/pdf/2409.08354
             - name: CV
               url: "/CV_0929.pdf"   
     socialIcons:
