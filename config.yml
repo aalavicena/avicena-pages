@@ -1,5 +1,5 @@
-baseURL: "https://yangkeunyun.github.io/" 
-title: Yangkeun Yun
+baseURL: "https://weizhang-econometrics.github.io/" 
+title: Wei Zhang
 paginate: 20
 theme: PaperMod
 
@@ -18,12 +18,12 @@ menu:
           url: /papers/
           weight: 1  
         - name: CV
-          url: /cv-yangkeun-yun.pdf
+          url: /CV_0919.pdf
           weight: 2
 
 params:
-    description: "I am a PhD student in Economics at the UCLA Anderson School of Management."
-    author: Yangkeun Yun
+    description: "I am a PhD student in Economics at Purdue University."
+    author: Wei Zhang
     googleAnalyticsID: "G-D54BS9DFQ6"
     DateFormat: "January 2006"
     defaultTheme: light
@@ -46,22 +46,22 @@ params:
     math: true
     profileMode:
           enabled: true
-          title: Yangkeun Yun
-          subtitle: "I am a PhD candidate in economics at UCLA Anderson. My research fields are industrial organization and environmental economics."
+          title: Wei Zhang
+          subtitle: "I am a PhD candidate in economics at Purdue University. My research fields are Bayesian time series."
           imageUrl: "/yun_yangkeun.jpeg"
           imageWidth: 160
           imageHeight: 160
           imageTitle: 
           buttons:
-            - name: Papers
+            - name: Job Market Paper
               url: /papers/
             - name: CV
-              url: "/cv-yangkeun-yun.pdf"   
+              url: "/CV_0929.pdf"   
     socialIcons:
         - name: Email
-          url: mailto:yangkeun.yun.phd@anderson.ucla.edu
+          url: mailto:zhan3721@purdue.edu
         - name: GitHub
-          url: https://github.com/yangkeunyun
+          url: https://github.com/WeiZhang-Econometrics
 
     assets:
         disableHLJS: true
@@ -70,7 +70,7 @@ params:
         hiddenInList: true
         hiddenInSingle: true
     label:
-      text: "Yangkeun Yun"
+      text: "Wei Zhang"
       icon: /favicon-whale.ico
       iconHeight: 18
 
