@@ -61,7 +61,7 @@ params:
           imageTitle: 
           buttons:
             - name: Job Market Paper
-              url: https://arxiv.org/pdf/2409.08354
+              url: /BMDFM.pdf
             - name: CV
               url: "/CV_0929.pdf"   
     socialIcons:
