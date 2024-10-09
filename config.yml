@@ -14,17 +14,14 @@ taxonomies:
 
 menu:
     main:
-        - name: Job Market Paper
-          url: /BMDFM.pdf
-          weight: 1  
         - name: CV
-          url: /cv/
-          weight: 2
+          url: cv/
+          weight: 1
         - name: Projects
-          url: /papers/
-          weight: 3
+          url: papers/
+          weight: 2
         - name: Teaching
-          url: /courses/
+          url: courses/
           weight: 3
 
 params:
@@ -54,7 +51,7 @@ params:
           enabled: true
           title: Wei Zhang
           subtitle: "Welcome to my website! I am a PhD candidate in economics at Purdue University, working under the supervision of Professor [<u>Joshua C. C. Chan</u>](https://joshuachan.org/).
-           <br>  <br> In general, I am interested in Bayesian model comparison, time series models and variational inference. Currently I focus on developing high-dimensional time series models for empirical macroeconomics or financial economics, including Bayesian large VARs, dynamic factor models, and stochastic volatility models."
+           <br>  <br> My research interests focus on developing high-dimensional time series models for empirical macroeconomics or financial economics, including Bayesian large VARs, dynamic factor models, and stochastic volatility models. <b>I am on the 2024-2025 job market.<b>"
           imageUrl: "/temp_photo.jpg"
           imageWidth: 250
           imageHeight: 250
