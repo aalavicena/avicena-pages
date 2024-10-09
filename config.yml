@@ -18,13 +18,13 @@ menu:
           url: /BMDFM.pdf
           weight: 1  
         - name: CV
-          url: cv/
+          url: /cv/
           weight: 2
         - name: Projects
-          url: papers/
+          url: /papers/
           weight: 3
         - name: Teaching
-          url: courses/
+          url: /courses/
           weight: 3
 
 params:
