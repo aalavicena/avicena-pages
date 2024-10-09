@@ -15,7 +15,7 @@ taxonomies:
 menu:
     main:
         - name: Job Market Paper
-          url: /BMDFM.pdf/
+          url: /BMDFM.pdf
           weight: 1  
         - name: Projects
           url: /papers/
