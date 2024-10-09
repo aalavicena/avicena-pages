@@ -19,9 +19,10 @@ menu:
           weight: 1  
         - name: Projects
           url: /papers/
+          weight: 2
         - name: CV
           url: /CV_0919.pdf
-          weight: 2
+          weight: 3
 
 params:
     description: "I am a PhD student in Economics at Purdue University."
