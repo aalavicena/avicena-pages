@@ -3,7 +3,7 @@ title: "Location"
 aliases:
     - /contact.html
 hidemeta: true
-description: "My mailing and office addresses at the University of California, Santa Cruz."
+description: "My mailing and office addresses at Purdue University."
 
 ---
 
@@ -12,18 +12,18 @@ description: "My mailing and office addresses at the University of California, S
 #### Mailing address
 
 Economics Department  
-UC Santa Cruz  
-1156 High Street  
-Santa Cruz, CA 95064
+Purdue University 
+403 Mitch Daniels Blvd
+West Lafayette, IN 47906
 
 ---
 
 #### Office address
 
-Room 437  
-Engineering 2 Building  
-UC Santa Cruz
+Room 488  
+Krannert Building (KRAN)
+Purdue University
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d203668.66166295038!2d-122.06180807362631!3d37.09743194165668!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808e4174e5b57475%3A0x97880f47ac591627!2sDepartment%20of%20Economics!5e0!3m2!1sen!2sus!4v1686026390720!5m2!1sen!2sus" width="700" height="500" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+<iframe src="https://www.google.com/maps/place/Mitchell+E.+Daniels,+Jr.+School+of+Business/@40.4237417,-86.9134922,17z/data=!3m2!4b1!5s0x8812e2afb37624fb:0x6fa59bf6bd799911!4m6!3m5!1s0x8812e2ae4a0041ff:0x8ceff64db547f045!8m2!3d40.4237376!4d-86.9109173!16zL20vMDRwNWxy?entry=ttu&g_ep=EgoyMDI0MTAwNS4yIKXMDSoASAFQAw%3D%3D" width="700" height="500" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
 
