@@ -17,11 +17,14 @@ menu:
         - name: Job Market Paper
           url: /BMDFM.pdf
           weight: 1  
-        - name: Projects
-          url: /papers/
-          weight: 2
         - name: CV
-          url: /CV_0919.pdf
+          url: cv/
+          weight: 2
+        - name: Projects
+          url: papers/
+          weight: 3
+        - name: Teaching
+          url: courses/
           weight: 3
 
 params:
@@ -62,8 +65,12 @@ params:
             - name: CV
               url: "/CV_0929.pdf"   
     socialIcons:
+        - name: CV
+          url: /CV_0919.pdf
         - name: Email
           url: mailto:zhan3721@purdue.edu
+        - name: Location
+          url: location/
         - name: GitHub
           url: https://github.com/WeiZhang-Econometrics
 
