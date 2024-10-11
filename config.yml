@@ -1,4 +1,4 @@
-baseURL: "https://weizhang-econometrics.github.io/" 
+baseURL: "https://weizhang-econometrics.github.io/"
 title: Wei Zhang
 paginate: 20
 theme: PaperMod
@@ -6,31 +6,34 @@ theme: PaperMod
 enableInlineShortcodes: true
 enableRobotsTXT: true
 
-social:
-    twitter: 
-
 taxonomies:
     tag: tags
 
 menu:
     main:
-        - name: CV
-          url: /cv/
-          weight: 1
         - name: Projects
-          url: /papers/
+          url: papers/
+          weight: 1
+        - name: CV/Resume
+          url: cv/
           weight: 2
-#        - name: Teaching
-#          url: /courses/
+        - name: Teaching
+          url: courses/
+          weight: 3
+#        - name: About Me
+#          url: about/
 #          weight: 3
+##        - name: Newsletter
+##          url: https://pmichaillat.substack.com
+#          weight: 4
 
 params:
-    description: "I am a PhD student in Economics at Purdue University."
-    author: Wei Zhang
-    googleAnalyticsID: "G-D54BS9DFQ6"
+    description: "I am a sixth year Ph.D. student in Economics at Purdue University."
+    author: Name
+    # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
     defaultTheme: light
-    hideFooter: true
+    hideFooter: false
     disableThemeToggle: true
     ShowShareButtons: false
     ShowReadingTime: false
@@ -55,31 +58,51 @@ params:
           imageUrl: "/temp_photo.jpg"
           imageWidth: 250
           imageHeight: 250
-          imageTitle: 
+          imageTitle: Jieqiong Jin
           buttons:
-            - name: Job Market Paper
-              url: "/BMDFM.pdf"
-            - name: CV
-              url: "/CV_0929.pdf"   
+            - name: Research
+              url: papers/
+            - name: CV / Resume
+              url: cv/
+            - name: Teaching
+              url: courses/
+#            - name: About Me
+#              url: about/
+#            - name: Newsletter
+#              url: https://pmichaillat.substack.com
+#            - name: Tags
+#              url: tags/
+#            - name: Archive
+#              url: archive/
     socialIcons:
         - name: CV
-          url: /CV_0919.pdf
+          url: CV_0929.pdf
         - name: Email
           url: mailto:zhan3721@purdue.edu
         - name: Location
           url: location/
+#        - name: Office Hours
+#          url: officehours/
+#        - name: Google Scholar
+#          url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
+#        - name: YouTube
+#          url: https://www.youtube.com/@pmichaillat
         - name: GitHub
-          url: https://github.com/WeiZhang-Econometrics
+          url: https://github.com/aardvark922
+#        - name: Substack
+#          url: https://pmichaillat.substack.com
+#        - name: Twitter
+#          url: https://twitter.com/pmichaillat
 
     assets:
         disableHLJS: true
         disableScrollBarStyle: true
     cover:
-        hiddenInList: true
+        hiddenInList: false
         hiddenInSingle: true
     label:
       text: "Wei Zhang"
-      icon: /favicon-whale.ico
+      icon: favicon.ico
       iconHeight: 18
 
 markup:
@@ -88,9 +111,8 @@ markup:
             unsafe: true
     highlight:
         guessSyntax: true
-        style: xcode
+        style: autumn 
     tableOfContents:
         endLevel: 2
         ordered: false
         startLevel: 2
-
