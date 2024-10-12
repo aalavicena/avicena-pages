@@ -1,19 +1,27 @@
 ---
-title: "Office Hours"
+title: "Teaching"
 aliases:
-    - /oh.html
+    - /contact.html
 hidemeta: true
-description: "Schedule and location for my office hours at the University of California, Santa Cruz."
----
-
---- 
-
-#### Regular office hours
-
-Regular office hours will start in the Fall Quarter (9/28/2023–12/8/2023). 
+description: "Teaching experience."
 
 ---
 
-#### Ad hoc office hours
+---
 
-If you are a UCSC graduate student on the job market or at the research stage and would like to talk, please [email me](mailto:pamichai@ucsc.edu) to set up a meeting.
+#### Teaching Assitant
+- **Undergraduate**
+  - Econ 210 Principals of Economics (Spring 2020)
+  - Econ 251 Microeconomics (Fall 2019)
+  - Econ 340 Intermediate Microeconomics (Fall 2020)
+- **Masters**
+  - Econ 572 Econometrics (Summer 2023)
+  - Econ 576 Statistical and Machine Learning (Fall 2024) 
+  - Econ 590 (MY1) Financial Valuation (Fall 2021)
+  - Econ 590 (MY3) Investments (Fall 2021, Fall 2022)
+- **Ph.D.**
+  - Econ 606 Microeconomics I (Fall 2020) 
+  - Econ 671 Economics (Fall 2023)
+  - Econ 674 Econometrics (Spring 2022, Spring 2023, Fall 2024) 
+  - Econ 693 Bayesian Econometrics I (Fall 2023, Fall 2024) 
+
