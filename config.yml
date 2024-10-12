@@ -61,10 +61,12 @@ params:
           imageHeight: 200
           imageTitle: Wei Zhang
           buttons:
-            - name: Research
-              url: papers/
+            - name: Job Market Paper
+              url: papers/BMDFM.pdf            
             - name: CV / Resume
               url: cv/
+            - name: Research
+              url: papers/
             - name: Teaching
               url: courses/
 #            - name: About Me
