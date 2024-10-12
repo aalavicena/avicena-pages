@@ -102,7 +102,7 @@ params:
         hiddenInSingle: true
     label:
       text: "Wei Zhang"
-      icon: favicon.ico
+      icon: /favicon-whale.ico
       iconHeight: 18
 
 markup:
