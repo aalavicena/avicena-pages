@@ -12,7 +12,7 @@ taxonomies:
 menu:
     main:
         - name: Projects
-          url: papers/
+          url: /papers/
           weight: 1
         - name: CV/Resume
           url: cv/
