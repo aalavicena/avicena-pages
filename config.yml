@@ -1,4 +1,4 @@
-baseURL: "http://weizhang-econometrics.github.io/"
+baseURL: "https://weizhang-econometrics.github.io/"
 title: Wei Zhang
 paginate: 20
 theme: PaperMod
