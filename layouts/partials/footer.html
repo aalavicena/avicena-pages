@@ -1,17 +1,17 @@
 {{- if not (.Param "hideFooter") }}
 <footer class="footer">
-<!--     {{- if site.Copyright }}
+    {{- if site.Copyright }}
     <span>{{ site.Copyright | markdownify }}</span>
-    {{- else }} -->
-    <span><a href="mailto:pascalmichaillat@brown.edu">Contact by email</a>&ensp;&middot;&ensp;<a href="https://pmichaillat.substack.com">Subscribe to newsletter</a></span>
-    <!-- by <a href="{{ "" | absLangURL }}">{{ site.Title }} -->
-    <!-- &middot; {{ now.Month }} {{ now.Year }} -->
-    <!-- {{- end }} -->
-<!--     <span>
-        Powered by
+    {{- else }}
+    &copy; {{ now.Year }} {{ site.Title }}
+    {{- end }}
+    <span>
+    &middot;  <a href="mailto:zhan3721@purdue.edu">Contact by email</a>&middot; Powered by 
         <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a> &
+        <a href="https://github.com/pmichaillat/hugo-website/" rel="noopener" target="_blank">a modified version</a>
+         of 
         <a href="https://github.com/adityatelange/hugo-PaperMod/" rel="noopener" target="_blank">PaperMod</a>
-    </span> -->
+    </span>
 </footer>
 {{- end }}
 
