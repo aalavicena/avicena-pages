@@ -54,7 +54,7 @@ params:
           enabled: true
           title: Wei Zhang
           subtitle: "Welcome to my website! I am a PhD candidate in economics at Purdue University, working under the supervision of Professor [<u>Joshua C. C. Chan</u>](https://joshuachan.org/).
-           <br>  <br> My research currently focuses on developing high-dimensional time series models for empirical macroeconomics or financial economics, including **Bayesian large VARs**, **dynamic factor models**, and **stochastic volatility models**. In general, I am interested in **Bayesian model comparison**, **time series models** and **variational inference**.  
+           <br>  <br> My research currently focuses on developing high-dimensional time series models for empirical macroeconomics or financial economics, including **large Bayesian VARs**, **dynamic factor models**, and **stochastic volatility models**. In general, I am interested in **Bayesian model comparison**, **time series models** and **variational inference**.  
            <br>  <br> **I am on the 2024-2025 job market.**"
           imageUrl: "/photo_square.png"
           imageWidth: 200
