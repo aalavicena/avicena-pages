@@ -4,7 +4,7 @@ hidemeta: true
 description: ""
 ---
 + [Download CV](/CV_0929.pdf)
-+ [Download Resume](/Resume_1007.pdf)
++ [Download Resume](/Resume_1030.pdf)
 ##### EDUCATION
 + Ph.D., Economics, Purdue University, 2025 (Expected)
 + M.S., Economics, Humboldt University of Berlin, 2017
