@@ -17,7 +17,7 @@ description: ""
 + Languages: Chinese (native), English (Fluent), Japanese (beginner).
   
 ##### GRANTS & AWARDS
-+ Purdue: Doctoral Student Research Fund, 2024; Summer Research Grant 2022, 2024; Federick N. Andrews Fellowship, 2019 - 2021
++ Purdue: Doctoral Student Research Fund, 2024; Summer Research Grant 2022, 2024; Federick N. Andrews Fellowship, 2019, 2020
 + UIBE: Graduate Student Scholarship, 2014-2016
 + ZUEL: Excellent Graduate of Class 2014; National Scholarship, 2013.
 
