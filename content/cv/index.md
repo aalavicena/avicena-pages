@@ -3,7 +3,7 @@ title: "CURRICULUM VITAE"
 hidemeta: true
 description: ""
 ---
-+ [Download CV](/CV_1115.pdf)
++ [Download CV](/CV_1116v2.pdf)
 + [Download Resume](/Resume_1030.pdf)
 ##### EDUCATION
 + Ph.D., Economics, Purdue University, 2025 (Expected)
