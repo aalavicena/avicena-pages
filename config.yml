@@ -62,7 +62,7 @@ params:
           imageTitle: Wei Zhang
           buttons:
             - name: Job Market Paper
-              url: papers/BMDFM.pdf            
+              url: papers/JMP_WeiZhang_Oct.pdf            
             - name: CV / Resume
               url: cv/
             - name: Research
@@ -79,7 +79,7 @@ params:
 #              url: archive/
     socialIcons:
         - name: CV
-          url: CV_0929.pdf
+          url: CV_1116v2.pdf
         - name: Email
           url: mailto:zhan3721@purdue.edu
         - name: Location
