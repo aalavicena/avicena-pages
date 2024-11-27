@@ -17,4 +17,4 @@ description: "News"
 <br>
 📣 08/2024 &nbsp; Presentation at the European Central Bank DG-E Internal Seminar<br>
 <br>
-💼 07/2024 &nbsp; Started the internship at the **European Central Bank** <br>
+💼 07/2024 &nbsp; Started an internship at the **European Central Bank** <br>
