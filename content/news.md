@@ -15,6 +15,6 @@ description: "News"
 <br>
 📣 10/2024 &nbsp; Presentation and poster session at NABE Tech Economics Conference 2024<br>
 <br>
-📣 08/2024 &nbsp; Presentation at the DG-E Internal Seminar at the European Central Bank <br>
+📣 08/2024 &nbsp; Presentation at the European Central Bank DG-E Internal Seminar<br>
 <br>
 💼 07/2024 &nbsp; Started the internship at the **European Central Bank** <br>
