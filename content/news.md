@@ -11,7 +11,7 @@ description: "News"
 
 📣 11/2024 &nbsp; Presentation at SEA 94th Annual Meeting, received the **Graduate Student Award**<br>
 <br>
-✨ 11/2024 &nbsp; "Bayesian Model Comparison for Large Bayesian VARs after the COVID-19 Pandemic" received R&R from the **Journal of Econometrics**<br>
+✨ 11/2024 &nbsp; "Bayesian Model Comparison for Large Bayesian VARs after the COVID-19 Pandemic" received an R&R from the **Journal of Econometrics**<br>
 <br>
 📣 10/2024 &nbsp; Presentation and poster session at NABE Tech Economics Conference 2024<br>
 <br>
