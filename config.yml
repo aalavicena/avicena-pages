@@ -62,7 +62,7 @@ params:
           imageTitle: Wei Zhang
           buttons:
             - name: Job Market Paper
-              url: papers/JMP_WeiZhang_Oct.pdf            
+              url: papers/MDFM_v6.pdf            
             - name: CV / Resume
               url: cv/
             - name: Research
