@@ -22,4 +22,4 @@ We use Okun's law to compute the output gap.
 ##### The Sufficiently Restrictive Zone
 
 ##### References
-+ [1] Bullard, J. (2023). Is Monetary Policy Sufficiently Restrictive?. The Regional Economist.
++ Bullard, J. (2023). Is Monetary Policy Sufficiently Restrictive?. The Regional Economist.
