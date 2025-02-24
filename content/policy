@@ -1,7 +1,8 @@
 ---
 title: "US Policy Rates"
+aliases:
+    - /contact.html
 hidemeta: true
 description: "How is the US policy rate now?"
----
 
-We use the Taylor-type rules to evaluate the current U.S. policy rates. In specific, I follow Bullard (2023) and consider the following form of the Taylor rule:
+---
