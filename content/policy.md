@@ -1,26 +1,30 @@
 ---
-title: "Teaching"
+title: "U.S. Policy Rates"
 aliases:
     - /contact.html
 hidemeta: true
-description: "Teaching experience."
+description: "How is the policy rate now?"
 
 ---
 
 ---
+##### Taylor-Type Rule
+We use the Taylor-type rule to evaluate the current policy rate in the United States. In specific, we follow Bullard (2023) and consider the rules of the following form:
+$$R_t = \max\left[R^* + \pi^* + \phi_{\pi}(pi_t-pi^*) + \min(ygap_t,0),0\right],$$
++ $R_t$ is the recommended policy rate
++ $R^*$ is the real interest rate
++ $\pi^* = 2\%$ is the inflation target
++ $\pi_t$ is the inflation index
++ $\phi_{\pi}$ describes the reaction of the policy maker to deviations of inflation from target
++ $ygap_t$ is the output gap
 
-#### Teaching Assitant
-- **Undergraduate**
-  - Econ 210 Principals of Economics (Spring 2020)
-  - Econ 251 Microeconomics (Fall 2019)
-  - Econ 340 Intermediate Microeconomics (Fall 2020)
-- **Masters**
-  - Econ 572 Econometrics (Summer 2023)
-  - Econ 576 Statistical and Machine Learning (Fall 2024) 
-  - Econ 590 (MY1) Financial Valuation (Fall 2021)
-  - Econ 590 (MY3) Investments (Fall 2021, Fall 2022)
-- **Ph.D.**
-  - Econ 606 Microeconomics I (Fall 2020) 
-  - Econ 671 Economics (Fall 2023)
-  - Econ 674 Econometrics (Spring 2022, Spring 2023, Fall 2024) 
-  - Econ 693 Bayesian Econometrics I (Fall 2023, Fall 2024) 
+##### Inflation
+
+##### Output Gap
+We use Okun's law to compute the output gap.
+![](/Output_gap.png)
+
+##### The Sufficiently Restrictive Zone
+
+##### References
++ Bullard, J. (2023). Is Monetary Policy Sufficiently Restrictive?. The Regional Economist.
