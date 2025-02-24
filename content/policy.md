@@ -27,3 +27,4 @@ We use Okun's law to compute the output gap.
 
 ##### References
 + Bullard, J. (2023). Is Monetary Policy Sufficiently Restrictive?. The Regional Economist.
++ Holston, K., Laubach, T., & Williams, J. C. (2023). Measuring the natural rate of interest after COVID-19 (No. 1063). Staff Report.
