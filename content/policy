@@ -17,7 +17,7 @@ $$R_t = \max\left[R^* + \pi^* + \phi_{\pi}(pi_t-pi^*) + \min(ygap_t,0),0\right],
 
 ##### Output Gap
 We use Okun's law to compute the output gap.
-![](/Output_gap.png)
+
 
 ##### The Sufficiently Restrictive Zone
 
