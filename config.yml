@@ -22,6 +22,9 @@ menu:
           weight: 3
         - name: News
           url: news/
+          weight: 5
+        - name: US Policy Rates
+          url: Policy/
           weight: 4
 ##        - name: Newsletter
 ##          url: https://pmichaillat.substack.com
