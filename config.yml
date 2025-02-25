@@ -20,12 +20,12 @@ menu:
         - name: Teaching
           url: courses/
           weight: 3
-        - name: US Policy Rates
-          url: policy/
-          weight: 4
+    #    - name: US Policy Rates
+    #      url: policy/
+    #      weight: 4
         - name: News
           url: news/
-          weight: 5
+          weight: 4
         
 ##        - name: Newsletter
 ##          url: https://pmichaillat.substack.com
@@ -73,8 +73,8 @@ params:
               url: papers/
             - name: Teaching
               url: courses/
-            - name: US Policy Rates
-              url: policy/
+#            - name: US Policy Rates
+#              url: policy/
             - name: News
               url: news/
 #            - name: About Me
