@@ -13,7 +13,6 @@ description: ""
 
 ##### SKILLS
 + Programming Language: R, MATLAB, Python
-+ Algorithms: Markov Chain Monte Carlo simulations, variational algorithms, nonlinear state-space fileters, regression trees.
 + Languages: Chinese (native), English (Fluent), Japanese (beginner).
   
 ##### GRANTS & AWARDS
