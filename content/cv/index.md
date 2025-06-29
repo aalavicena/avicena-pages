@@ -3,8 +3,8 @@ title: "CURRICULUM VITAE"
 hidemeta: true
 description: ""
 ---
-+ [Download CV](/CV_0602.pdf)
-+ [Download Resume](/Resume0608.pdf)
++ [Download CV](/CV0629.pdf)
++ [Download Resume](/Resume0629.pdf)
 ##### EDUCATION
 + Ph.D., Economics, Purdue University, 2025 (Expected)
 + M.S., Economics, Humboldt University of Berlin, 2017
