@@ -20,7 +20,7 @@ Here are some snapshots from places I’ve explored:
 ![](/loverspot.JPEG)
 *Lovers Point Park & Beach, CA*
 
-![](/navypeir.JPEG)
+![](/navypier.JPEG)
 *Navy Pier, IL*
 
 ![](/shakamak.JPEG)
@@ -29,5 +29,7 @@ Here are some snapshots from places I’ve explored:
 ![](/dunes.JPEG)
 *Indiana Dunes National Park, IN*
 
+![](/turkyrun.JPEG)
+*Turky Run State Park, IN*
 
 More to come!
