@@ -35,7 +35,16 @@ Here are some snapshots from places I’ve explored:
 ![](/stlouiscave.JPEG)
 *Meramec Caverns, MO*
 
-![](/springmills.JPEG)
-*Spring Mill State Park, IN*
+![](/dreston1.JPG)
+*Saxon Switzerland National Park, Germany*
+
+![](/dreston2.JPG)
+*Saxon Switzerland National Park, Germany*
+
+![](/shiweilin.JPG)
+*Schwerin, Germany*
+
+![](/shiweilin2.JPG)
+*Schwerin, Germany*
 
 More to come!
