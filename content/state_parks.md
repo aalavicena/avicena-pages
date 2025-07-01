@@ -2,7 +2,7 @@
 
 Here are some snapshots from places I’ve explored:
 
-![](/aroraatpark.jpeg)
+![](/aroraatpark.JPEG)
 *Aurora observed at Prophetstown State Park, IN*
 
 ![](/carmelatsea.JPEG)
