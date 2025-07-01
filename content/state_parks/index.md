@@ -33,7 +33,7 @@ Here are some snapshots from places I’ve explored — all taken with an iPhone
 ![](/dunes.JPEG)
 *Indiana Dunes National Park, IN*
 
-![](/springmills.JPEG)
+![](/springmills.jpg)
 *Spring Mill State Park, IN*
 
 ![](/turkyrun.JPEG)
