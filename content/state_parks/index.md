@@ -35,4 +35,7 @@ Here are some snapshots from places I’ve explored:
 ![](/stlouiscave.JPEG)
 *Meramec Caverns, MO*
 
+![](/springmills.JPEG)
+*Spring Mill State Park, IN*
+
 More to come!
