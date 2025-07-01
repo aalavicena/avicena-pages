@@ -1,6 +1,6 @@
 # Nature Adventures
 
-Here are some snapshots from places I’ve explored:
+Here are some snapshots from places I’ve explored — all taken with an iPhone:
 
 ![](/aroraatpark.JPEG)
 *Aurora observed at Prophetstown State Park, IN*
