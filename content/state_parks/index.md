@@ -17,6 +17,15 @@ Here are some snapshots from places I’ve explored:
 ![](/cuyahoga.JPEG)
 *Cuyahoga Valley National Park, OH*
 
+![](/loverspot.JPEG)
+*Lovers Point Park & Beach, CA*
+
+![](/navypeir.JPEG)
+*Navy Pier, IL*
+
+![](/shakamak.JPEG)
+*Shakamak State Park, IN*
+
 ![](/dunes.JPEG)
 *Indiana Dunes National Park, IN*
 
