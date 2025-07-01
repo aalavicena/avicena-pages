@@ -67,12 +67,13 @@ params:
           buttons:
             - name: Job Market Paper
               url: papers/MDFM_v6.pdf            
-            - name: About Me
-              url: cv/
+            
             - name: Research
               url: papers/
             - name: Teaching
               url: courses/
+            - name: About Me
+              url: cv/
 #            - name: US Policy Rates
 #              url: policy/
             - name: News
