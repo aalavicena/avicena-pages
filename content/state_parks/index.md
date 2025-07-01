@@ -32,4 +32,7 @@ Here are some snapshots from places I’ve explored:
 ![](/turkyrun.JPEG)
 *Turky Run State Park, IN*
 
+![](/stlouiscave.JPEG)
+*Meramec Caverns, MO*
+
 More to come!
