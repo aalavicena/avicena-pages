@@ -14,12 +14,12 @@ menu:
         - name: Projects
           url: /papers/
           weight: 1
-        - name: CV/Resume
+        - name: About Me
           url: cv/
-          weight: 2
+          weight: 3
         - name: Teaching
           url: courses/
-          weight: 3
+          weight: 2
     #    - name: US Policy Rates
     #      url: policy/
     #      weight: 4
@@ -67,7 +67,7 @@ params:
           buttons:
             - name: Job Market Paper
               url: papers/MDFM_v6.pdf            
-            - name: CV / Resume
+            - name: About Me
               url: cv/
             - name: Research
               url: papers/
