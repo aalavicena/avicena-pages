@@ -1,6 +1,7 @@
 # Nature Adventures
 
 Here are some snapshots from places I’ve explored:
+
 ![Aurora observed at Prophetstown State Park](images/aroraatpark.jpeg)
 *Aurora observed at Prophetstown State Park, IN*
 
