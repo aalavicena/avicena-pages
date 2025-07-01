@@ -1,4 +1,8 @@
-# Nature Adventures
+---
+title: "Nature Adventures"
+hidemeta: true
+description: "Some snapshots from places I've explored."
+---
 
 Here are some snapshots from places I’ve explored — all taken with an iPhone:
 
