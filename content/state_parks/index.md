@@ -47,4 +47,7 @@ Here are some snapshots from places I’ve explored — all taken with an iPhone
 ![](/shiweilin2.JPG)
 *Schwerin, Germany*
 
+![](/berlinstr.JPG)
+*A street covered in sakura blooms, Berlin, Germany*
+
 More to come!
