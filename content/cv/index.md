@@ -13,7 +13,7 @@ Before Purdue, I completed my master’s degree at Humboldt University of Berlin
 
 I expect to graduate in August 2025. After that, I’m thrilled to be joining Domenico Giannone on a set of exciting research projects that push the frontier of empirical macroeconomics.
 
-Outside of research, I love creative pursuits like painting and playing the piano. I’m also an avid hiker — many of my best research ideas have come to me while on the trail. Feel free to check out [this link] for a few snapshots from my state park adventures!
+Outside of research, I love creative pursuits like painting and playing the piano. I’m also a nature-lover — many of my best research ideas have come to me while on the trail. Feel free to check out [this link] for a few snapshots from my nature adventures!
 
 You’ll find my CV below.
 
