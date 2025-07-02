@@ -88,7 +88,7 @@ params:
 #              url: archive/
     socialIcons:
         - name: CV
-          url: CV_0629.pdf
+          url: CV0629.pdf
         - name: Email
           url: mailto:zhan3721@purdue.edu
         - name: Location
