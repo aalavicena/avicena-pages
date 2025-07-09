@@ -11,7 +11,7 @@ I am currently a PhD candidate in Economics at Purdue University. My research li
 
 Before Purdue, I completed my master’s degree at Humboldt University of Berlin, where I focused on causal inference under the supervision of Prof. Dr. Bernd Fitzenberger. My master’s thesis used China’s 1998 college enrollment expansion as an instrument to estimate the effects of education on the wage distribution in urban areas via instrumental quantile regression.
 
-<!--I expect to graduate in August 2025. After that, I’m thrilled to be joining Prof. [Domenico Giannone](https://scholar.google.com/citations?user=Ek6m-HIAAAAJ&hl=en) on a set of exciting research projects that push the frontier of empirical macroeconomics.-->
+I expect to graduate in August 2025. After that, I’m thrilled to be joining Prof. [Domenico Giannone](https://scholar.google.com/citations?user=Ek6m-HIAAAAJ&hl=en) on a set of exciting research projects that push the frontier of empirical macroeconomics.
 
 Outside of research, I love painting and playing the piano. I’m also a nature-lover — many of my best research ideas have come to me while on the trail. Feel free to check out [this link](/state_parks/) for a few snapshots from my nature adventures!
 
