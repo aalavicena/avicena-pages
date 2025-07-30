@@ -8,6 +8,8 @@ description: "News"
 ---
 
 ---
+✨ 07/2025 &nbsp; "Bayesian Model Comparison for Large Bayesian VARs after the COVID-19 Pandemic" has been accepted by the **Journal of Econometrics**<br>
+<br>
 🎓 06/2025 &nbsp; Successfully defended my PhD thesis, **Flexible Bayesian Time-Series Models in A Data-Rich Environment**<br>
 <br>
 📣 11/2024 &nbsp; Presentation at SEA 94th Annual Meeting, received the **Graduate Student Award**<br>
