@@ -3,7 +3,7 @@ title: "Location"
 aliases:
     - /contact.html
 hidemeta: true
-description: "My mailing and office addresses at Purdue University."
+description: "My mailing and office addresses at Johns Hopkins University."
 
 ---
 
@@ -12,15 +12,15 @@ description: "My mailing and office addresses at Purdue University."
 #### Mailing address
 
 Department of Economics  <br>
-Purdue University <br>
-403 Mitch Daniels Blvd<br>
-West Lafayette, IN 47906
+Johns Hopkins University <br>
+3100 Wyman Park Dr Blvd<br>
+Baltimore, MD 21211
 
 ---
 
 #### Office address
 
-Room 488  <br>
-Krannert Building (KRAN) <br>
-Purdue University
+Room 595  <br>
+Wyman Park Building <br>
+Johns Hopkins University
 
