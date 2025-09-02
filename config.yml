@@ -32,7 +32,7 @@ menu:
 #          weight: 4
 
 params:
-    description: "I am a sixth year Ph.D. student in Economics at Purdue University."
+    description: "I am a Postdoctoral Fellow in Economics at Johns Hopkins University."
     author: Name
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
@@ -57,7 +57,7 @@ params:
     profileMode:
           enabled: true
           title: Wei Zhang
-          subtitle: "Welcome to my website! I am a PhD candidate in economics at Purdue University, working under the supervision of Professor [<u>Joshua C. C. Chan</u>](https://joshuachan.org/).
+          subtitle: "Welcome to my website! I am a Postdoctoral Fellow in Economics at Johns Hopkins University.
            <br>  <br> My research currently focuses on developing high-dimensional time series models for empirical macroeconomics or financial economics, including **large Bayesian VARs**, **dynamic factor models**, and **stochastic volatility models**. In general, I am interested in **Bayesian model comparison**, **time series models** and **variational inference**. "
           # <br>  <br> **I am on the 2024-2025 job market.**
           imageUrl: "/photo_square.png"
