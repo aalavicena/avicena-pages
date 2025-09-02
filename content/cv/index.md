@@ -7,11 +7,11 @@ Hi there! Welcome to my website.
 
 My name is Wei Zhang (张巍). You can hear how to pronounce my name [here](https://www.youtube.com/watch?v=iP1FfWhdXTc).
 
-I am currently a PhD candidate in Economics at Purdue University. My research lies at the intersection of econometrics and macroeconomics, with a focus on dynamic factor models and large Bayesian VARs. I’m particularly interested in how these tools can be used for forecasting, structural analysis, business cycle monitoring, and tackling missing data challenges in high-dimensional datasets.
+I am a Postdoctoral Fellow in Economics at Johns Hopkins University. My research lies at the intersection of econometrics and macroeconomics, with a focus on dynamic factor models and large Bayesian VARs. I’m particularly interested in how these tools can be used for forecasting, structural analysis, business cycle monitoring, and tackling missing data challenges in high-dimensional datasets. I am currently collaborating with Prof. [Domenico Giannone](https://scholar.google.com/citations?user=Ek6m-HIAAAAJ&hl=en) on several projects that advance empirical macroeconomics.
 
-Before Purdue, I completed my master’s degree at Humboldt University of Berlin, where I focused on causal inference under the supervision of Prof. Dr. Bernd Fitzenberger. My master’s thesis used China’s 1998 college enrollment expansion as an instrument to estimate the effects of education on the wage distribution in urban areas via instrumental quantile regression.
+Before Johns Hopkins, I earned my Ph.D. in Economics at Purdue University, where I studied Bayesian time series methods under the supervision of [Joshua Chan](https://joshuachan.org/) and was fortunate to learn from and be supported by many outstanding faculty members across the department.
 
-I expect to graduate in August 2025. After that, I’m thrilled to be joining Prof. [Domenico Giannone](https://scholar.google.com/citations?user=Ek6m-HIAAAAJ&hl=en) on a set of exciting research projects that push the frontier of empirical macroeconomics.
+<!-- From 2015 to 2017, I studied causal inference at Humboldt University of Berlin under the supervision of Prof. Bernd Fitzenberger. My master’s thesis used China’s 1998 college enrollment expansion as an instrument to estimate the effects of education on the urban wage distribution through instrumental quantile regression. -->
 
 Outside of research, I love painting and playing the piano. I’m also a nature-lover — many of my best research ideas have come to me while on the trail. Feel free to check out [this link](/state_parks/) for a few snapshots from my nature adventures!
 
@@ -21,7 +21,7 @@ You’ll find my CV below.
 
 <!--+ [Download Resume](/Resume0629.pdf)-->
 ##### EDUCATION
-+ Ph.D., Economics, Purdue University, 2025 (Expected)
++ Ph.D., Economics, Purdue University, 2025
 + M.S., Economics, Humboldt University of Berlin, 2017
 + M.A., Economics, University of International Business and Economics, 2017
 + B.A., International Business, Zhongnan University of Economics and Law, 2014
