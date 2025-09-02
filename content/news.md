@@ -9,6 +9,7 @@ description: "News"
 
 ---
 💼 09/2025 &nbsp; Started a new position as Postdoctoral Fellow at the **Johns Hopkins University** <br>
+<br>
 ✨ 07/2025 &nbsp; "Bayesian Model Comparison for Large Bayesian VARs after the COVID-19 Pandemic" has been accepted by the **Journal of Econometrics**<br>
 <br>
 🎓 06/2025 &nbsp; Successfully defended my PhD thesis, **Flexible Bayesian Time-Series Models in a Data-Rich Environment**<br>
