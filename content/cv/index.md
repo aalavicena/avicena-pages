@@ -7,9 +7,9 @@ Hi there! Welcome to my website.
 
 My name is Wei Zhang (张巍). You can hear how to pronounce my name [here](https://www.youtube.com/watch?v=iP1FfWhdXTc).
 
-I am a Postdoctoral Fellow in Economics at Johns Hopkins University. My research lies at the intersection of econometrics and macroeconomics, with a focus on dynamic factor models and large Bayesian VARs. I’m particularly interested in how these tools can be used for forecasting, structural analysis, business cycle monitoring, and tackling missing data challenges in high-dimensional datasets. I am currently collaborating with Prof. [Domenico Giannone](https://scholar.google.com/citations?user=Ek6m-HIAAAAJ&hl=en) on several projects that advance empirical macroeconomics.
+I am a Postdoctoral Fellow in Economics at Johns Hopkins University. My research lies at the intersection of econometrics and macroeconomics, with a focus on dynamic factor models and large Bayesian VARs. I’m particularly interested in how these tools can be used for forecasting, structural analysis, business cycle monitoring, and tackling missing data challenges in high-dimensional datasets. I am currently collaborating with Prof. [Domenico Giannone](https://scholar.google.com/citations?user=Ek6m-HIAAAAJ&hl=en) on research projects that advance empirical macroeconomics.
 
-Before Johns Hopkins, I earned my Ph.D. in Economics at Purdue University, where I studied Bayesian time series methods under the supervision of [Joshua Chan](https://joshuachan.org/) and was fortunate to learn from and be supported by many outstanding faculty members across the department.
+Before Johns Hopkins, I earned my Ph.D. in Economics at Purdue University, where I studied Bayesian time series methods under the supervision of Prof. [Joshua Chan](https://joshuachan.org/) and was fortunate to learn from and be supported by many outstanding faculty members across the department.
 
 <!-- From 2015 to 2017, I studied causal inference at Humboldt University of Berlin under the supervision of Prof. Bernd Fitzenberger. My master’s thesis used China’s 1998 college enrollment expansion as an instrument to estimate the effects of education on the urban wage distribution through instrumental quantile regression. -->
 
