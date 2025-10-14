@@ -20,7 +20,7 @@ Baltimore, MD 21211
 
 #### Office address
 
-Room 595  <br>
+Room 535  <br>
 Wyman Park Building <br>
 Johns Hopkins University
 
