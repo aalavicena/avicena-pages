@@ -62,7 +62,7 @@ params:
           # <br>  <br> **I am on the 2024-2025 job market.**
           imageUrl: "https://raw.githubusercontent.com/aalavicena/avicena-pages/refs/heads/main/content/pic-300.jpg"
           imageWidth: 300
-          imageHeight: 245
+          imageHeight: 300
           imageTitle: Naufal Rahman Avicena
           buttons:
 #            - name: Job Market Paper
