@@ -1,37 +1,36 @@
 ---
 title: "About Me"
 hidemeta: true
-description: "A brief introduction of Wei Zhang."
+description: "A brief introduction of Naufal Rahman Avicena."
 ---
 Hi there! Welcome to my website.
 
-My name is Wei Zhang (张巍). You can hear how to pronounce my name [here](https://www.youtube.com/watch?v=iP1FfWhdXTc).
+My name is Naufal Rahman Avicena, and I am from Indonesia.
 
-I am a Postdoctoral Fellow in Economics at Johns Hopkins University. My research lies at the intersection of econometrics and macroeconomics, with a focus on dynamic factor models and large Bayesian VARs. I’m particularly interested in how these tools can be used for forecasting, structural analysis, business cycle monitoring, and tackling missing data challenges in high-dimensional datasets. I am currently collaborating with Prof. [Domenico Giannone](https://scholar.google.com/citations?user=Ek6m-HIAAAAJ&hl=en) on research projects that advance empirical macroeconomics.
+I am finishing my Master's in ecology at the Xishuangbanna Tropical Botanical Garden, Chinese Academy of Sciences (XTBG). My research covers the intersection between human-wildlife conflict (HWC) and AI. I'm particularly interested in how state-of-the-art methods can be used to understand HWC and how it can inform evidence-based conflict mitigation. I am currently studying under the tutelage of Prof. [Ahimsa Campos-Arceiz](https://scholar.google.com/citations?user=cup55xsAAAAJ&hl=en). My master's thesis used human casualties occurrence data from 10 countries (2000-2023) to model the drivers and predict the risk of elephant-caused human casualties across Tropical Asia using spatial regression techniques.
 
-Before Johns Hopkins, I earned my Ph.D. in Economics at Purdue University, where I studied Bayesian time series methods under the supervision of Prof. [Joshua Chan](https://joshuachan.org/) and was fortunate to learn from and be supported by many outstanding faculty members across the department.
+Before XTBG, I obtained my BSc (Hons) in the First Class from the University of Nottingham Malaysia. My Final Year Project (FYP) used elephant vocalizations collected from Sri Lanka and Malaysia to train an AI model that could detect elephant sounds. Some notable publications stemmed from this project (please see Research section). Subsequently, I worked at the university as a Research Associate after my graduation to lead the human-elephant conflict early warning systems project. I was fortunate to have studied under the tutelage of Dr. [Ee Phin Wong](https://www.nottingham.ac.uk/news/expertiseguide/geography/dr-ee-phin-wong.aspx) and Prof. [Tomas Maul](https://scholar.google.com/citations?user=ckZuLUgAAAAJ&hl=en) during this period
 
 <!-- From 2015 to 2017, I studied causal inference at Humboldt University of Berlin under the supervision of Prof. Bernd Fitzenberger. My master’s thesis used China’s 1998 college enrollment expansion as an instrument to estimate the effects of education on the urban wage distribution through instrumental quantile regression. -->
 
-Outside of research, I love painting and playing the piano. I’m also a nature-lover — many of my best research ideas have come to me while on the trail. Feel free to check out [this link](/state_parks/) for a few snapshots from my nature adventures!
+Outside of research, I enjoyed playing football, running, and reading books. Playing as an attacking winger requires me to constantly scan the field and deduce the best ways to penetrate the opponents' defense. It taught me the value of being composed under constant pressure and resilience to continue improving myself. I read a wide range of genres, but have special fondness towards Indonesian literature.
 
-You’ll find my CV below.
+See my CV below:
 
-+ [Download CV](/CV_0730.pdf)
++ [Download CV](/content/CV-Naufal.pdf)
 
 <!--+ [Download Resume](/Resume0629.pdf)-->
 ##### EDUCATION
-+ Ph.D., Economics, Purdue University, 2025
-+ M.S., Economics, Humboldt University of Berlin, 2017
-+ M.A., Economics, University of International Business and Economics, 2017
-+ B.A., International Business, Zhongnan University of Economics and Law, 2014
++ MSc., Ecology, Xishuangbanna Tropical Botanical Garden, CAS, 2022
++ BSc. (Hons), Environmental Science, University of Nottingham Malaysia, 2019
 
 ##### SKILLS
-+ Programming Language: R, MATLAB, Python
-+ Languages: Chinese (native), English (Fluent), Japanese (beginner), German (beginner).
++ Programming Language: R, Python
++ Geographical Information Systems: QGIS, ArcGIS Pro, Google Earth Engine, ERDAS Imagine
++ Languages: Indonesian (native), Malay (native), English (fluent), Chinese (beginner), Javanese (beginner)
   
 ##### GRANTS & AWARDS
-+ Purdue: Doctoral Student Research Fund, 2024; Summer Research Grant 2022, 2024; Federick N. Andrews Fellowship, 2019, 2020
-+ UIBE: Graduate Student Scholarship, 2014, 2015
-+ ZUEL: Excellent Graduate of Class 2014; National Scholarship, 2013.
++ XTBG: Research Grant for High Impact Journal, 2025, ~CNY 150,000 / ~USD 21,000
++ Alliance of National Science Organizations for the Belt and Road Regions (ANSO): Master's Research Grant, 2022-2026, ~CNY 12,000 / ~USD 1,600
++ Chinese Academy of Sciences: CAS-ANSO Scholarship for Young Talents, 2022, Fully-Funded
 
