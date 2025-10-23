@@ -1,5 +1,5 @@
-baseURL: "https://weizhang-econ.github.io/"
-title: Wei Zhang
+baseURL: "https://aalavicena.github.io/"
+title: Naufal Rahman Avicena
 paginate: 20
 theme: PaperMod
 
@@ -17,9 +17,9 @@ menu:
         - name: About Me
           url: cv/
           weight: 3
-        - name: Teaching
-          url: courses/
-          weight: 2
+    #    - name: Teaching
+    #      url: courses/
+    #      weight: 2
     #    - name: US Policy Rates
     #      url: policy/
     #      weight: 4
@@ -32,7 +32,7 @@ menu:
 #          weight: 4
 
 params:
-    description: "I am a Postdoctoral Fellow in Economics at Johns Hopkins University."
+    description: "I am a Master's student at Xishuangbanna Tropical Botanical Garden, Chinese Academy of Sciences."
     author: Name
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
@@ -56,22 +56,22 @@ params:
     math: true
     profileMode:
           enabled: true
-          title: Wei Zhang
-          subtitle: "Welcome to my website! I am a Postdoctoral Fellow in Economics at Johns Hopkins University.
-           <br>  <br> My research currently focuses on developing high-dimensional time series models for empirical macroeconomics or financial economics, including **large Bayesian VARs**, **dynamic factor models**, and **stochastic volatility models**. In general, I am interested in **Bayesian model comparison**, **time series models** and **variational inference**. "
+          title: Naufal Rahman Avicena
+          subtitle: "Welcome! I am a Master's student at Xishuangbanna Tropical Botanical Garden, Chinese Academy of Sciences.
+           <br>  <br> I am currently working on understanding the drivers and outlook of elephant-caused human casualties across Tropical Asia. I am mainly trained as an ecologist (familiar with ecological modelling and has fieldwork experience), but have experience with AI application research (CNN, and more recently, NLP). Feel free to send an email to know more about me! "
           # <br>  <br> **I am on the 2024-2025 job market.**
-          imageUrl: "/photo_square.png"
+          imageUrl: "https://raw.githubusercontent.com/aalavicena/avicena-pages/refs/heads/main/content/Weixin%20Image_2025-10-23_032457_700.jpg"
           imageWidth: 200
           imageHeight: 200
-          imageTitle: Wei Zhang
+          imageTitle: Naufal Rahman Avicena
           buttons:
-            - name: Job Market Paper
-              url: papers/JMP_WeiZhang_Aug25.pdf            
+#            - name: Job Market Paper
+#              url: papers/JMP_WeiZhang_Aug25.pdf            
             
             - name: Research
               url: papers/
-            - name: Teaching
-              url: courses/
+#            - name: Teaching
+#              url: courses/
             - name: About Me
               url: cv/
 #            - name: US Policy Rates
@@ -90,17 +90,17 @@ params:
         - name: CV
           url: CV_0730.pdf
         - name: Email
-          url: mailto:wei.katie.zhang@gmail.com
+          url: mailto:naufalrahmanavicena@gmail.com
         - name: Location
           url: location/
 #        - name: Office Hours
 #          url: officehours/
-#        - name: Google Scholar
-#          url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
+        - name: Google Scholar
+          url: https://scholar.google.com/citations?user=LzPzZhMAAAAJ&hl=en
 #        - name: YouTube
 #          url: https://www.youtube.com/@pmichaillat
         - name: GitHub
-          url: https://github.com/weizhang-econ
+          url: https://github.com/aalavicena
 #        - name: Substack
 #          url: https://pmichaillat.substack.com
 #        - name: Twitter
@@ -113,7 +113,7 @@ params:
         hiddenInList: false
         hiddenInSingle: true
     label:
-      text: "Wei Zhang"
+      text: "Naufal Rahman Avicena"
       icon: /favicon-whale.ico
       iconHeight: 18
 
