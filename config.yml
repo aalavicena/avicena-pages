@@ -11,8 +11,8 @@ taxonomies:
 
 menu:
     main:
-   #     - name: Projects
-   #       url: /papers/
+        - name: Projects
+          url: /papers/
           weight: 1
         - name: About Me
           url: cv/
