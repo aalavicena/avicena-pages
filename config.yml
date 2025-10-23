@@ -60,9 +60,9 @@ params:
           subtitle: "Welcome! I am a Master's student at Xishuangbanna Tropical Botanical Garden, Chinese Academy of Sciences.
            <br>  <br> I am currently working on understanding the drivers and outlook of elephant-caused human casualties across Tropical Asia. I am mainly trained as an ecologist (familiar with ecological modelling and has fieldwork experience), but have experience with AI application research (CNN, and more recently, NLP). Feel free to send an email to know more about me! "
           # <br>  <br> **I am on the 2024-2025 job market.**
-          imageUrl: "https://raw.githubusercontent.com/aalavicena/avicena-pages/refs/heads/main/content/Weixin%20Image_2025-10-23_032457_700.jpg"
-          imageWidth: 400
-          imageHeight: 400
+          imageUrl: "https://raw.githubusercontent.com/aalavicena/avicena-pages/refs/heads/main/content/pic-300.jpg"
+          imageWidth: 300
+          imageHeight: 245
           imageTitle: Naufal Rahman Avicena
           buttons:
 #            - name: Job Market Paper
@@ -88,7 +88,7 @@ params:
 #              url: archive/
     socialIcons:
         - name: CV
-          url: CV_0730.pdf
+          url: Content/CV-Naufal.pdf
         - name: Email
           url: mailto:naufalrahmanavicena@gmail.com
         - name: Location
