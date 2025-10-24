@@ -1,11 +1,11 @@
 ---
-title: "Living with elephants: Deep learning models performance in examining Asian elephant (Elephas maximus) sounds from Sri Lanka and Malaysia with considerations for application"
-weight: 2
-author: "**Avicena, NR**; Loo, YY; Maul, T; _et al._, Biological Conservation"
-date: 2025-09-01
+title: "The Use of Bioacoustics in Biodiversity Monitoring and Wildlife Conservation in Panti Forest Reserve, Johor"
+weight: 4
+author: "Loo, YY; **Avicena, NR**; Thong, N; _et al._, Malaysian Forester"
+date: 2025-01-01
 
-description: "We developed a novel approach to detect elephant sounds using convolutional neural network. Our model achieved 95% accuracy and can be used across different landscapes."
-summary: "We developed a novel approach to detect elephant sounds using convolutional neural network. Our model achieved 95% accuracy and can be used across different landscapes."
+description: "We explored the efficacy of bioacoustics paired with deep learning and soundscape analysis methods for biodiversity monitoring. This paper was part of the series: Biodiversity Expedition in Panti Forest Reserve, Forestry Department of Malaysia."
+summary: "We explored the efficacy of bioacoustics paired with deep learning and soundscape analysis methods for biodiversity monitoring. This paper was part of the series: Biodiversity Expedition in Panti Forest Reserve, Forestry Department of Malaysia."
 
 ---
 
@@ -17,13 +17,13 @@ summary: "We developed a novel approach to detect elephant sounds using convolut
 
 [//]: # ()
 
-+ [Paper](https://www.sciencedirect.com/science/article/pii/S000632072500309X?via%3Dihub)
++ [Paper](https://www.researchgate.net/publication/393149373_The_Use_of_Bioacoustics_in_Biodiversity_Monitoring_and_Wildlife_Conservation_in_Panti_Forest_Reserve_Johor)
 
 
 ---
 
 ##### Abstract
 
-Human-elephant conflict (HEC) affects people and wild elephants negatively, and support for harmonious coexistence is needed. With the current human footprint, wildlife is displaced, and people living near wildlife want safe interactions. Conservation interventions are needed to manage human-elephant coexistence in real-time. This research, using deep learning models, provides the fundamental mechanics for acoustic detection of elephants in an automated early-warning system, currently under development. We examine the use of convolutional neural networks (CNNs) for classifying Asian elephant (Elephas maximus) sounds and non-elephant sounds. The results demonstrated the ability of CNNs to process bioacoustics data across various sample sizes, with the best-performing model achieving 98.45 % average test accuracy (balanced sample sizes, a k-fold approach with 10 % for testing). But when we infer CNN models built with Sri Lankas elephant vocalizations with unseen Malaysias elephant vocalizations, the performance of the models dropped to an average of 67.93 % accuracy and F1 score between 0.67 and 0.81, regardless of the initial training dataset size. We used Principal Component Analysis to compare 15 sound parameters extracted from spectrograms of elephant calls from Sri Lanka and Malaysia, and found that the sound characteristics between the two subspecies largely overlapped but with some differences. We conclude that the CNN models can detect elephant sounds but perform best with local data. The use of bioacoustic monitoring and automated detection can potentially support harmonious coexistence between humans and elephants, but for endangered species targeted by poachers, safeguards are needed. Additionally, we need discourse on research ethics and local community's rights.
+Bioacoustic monitoring allows for simultaneous recording of the soundscape on large geographical and temporal scales. In this study, we explored the efficacy of pairing bioacoustics with deep learning and soundscape analysis methods by detecting elephant and bird sounds in Panti Forest Reserve. We calculated the soundscape indices of the recordings to elucidate the sound diversity which may reflect the level of biodiversity. The Panti Forest Reserve is surrounded by towns, private lands, plantations, and farmlands. Six automated bioacoustic recording devices were deployed at seven sites to record 24-hour wildlife vocal activity (31 days from 25 August to 25 September 2022). Recordings of 1 minute every 10 minutes were extracted to manually annotate elephant and bird sounds and to calculate soundscape indices. Elephant signs (i.e. dung or footprints) were recorded in three sites and elephant sounds were found in one site. Elephant sounds and forest sounds (non-elephant sounds) collected were added to an existing Convolutional Neural Network model and achieved 95.98% average training accuracy and 97.31% average test accuracy. From the sound recordings, we were able to identify 35 species of birds, of which seven are near-threatened. In addition, our soundscape indices showed that the daytime activity showed more fluctuation than nocturnal activity. Panti Forest Reserve remains rich in the diversity of animal sounds and is a fertile ground for bioacoustic research. We hope that in future, the application of bioacoustics can support in minimising dangerous human-elephant encounter and elephant-vehicle collisions especially around the edge of forest reserves, wildlife ecological corridors and agriculture areas.
 
 ---
