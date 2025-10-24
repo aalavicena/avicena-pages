@@ -2,7 +2,7 @@
 title: "WildTechAlert: Deep Learning Models for Real-Time Detection of Elephant Presence Using Bioacoustics in an Early Warning System to Support Human-Elephant Coexistence"
 weight: 3
 author: "Loo, YY; **Avicena, NR**; Thong, N; _et al._, Lecture Notes in Artificial Intelligence"
-date: 2025-05-11
+date: 2024-05-11
 
 description: "We introduced a prototype early warning system using bioacoustics to mitigate human-elephant conflict."
 summary: "We introduced a prototype early warning system using bioacoustics to mitigate human-elephant conflict."
