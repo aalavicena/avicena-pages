@@ -26,7 +26,7 @@ See my CV below:
 
 ##### SKILLS
 + Programming Language: R, Python
-+ Geographical Information Systems: QGIS, ArcGIS Pro, Google Earth Engine, ERDAS Imagine (I love 'terra' package in R too)
++ GIS & Remote Sensing: QGIS, ArcGIS Pro, Google Earth Engine, ERDAS Imagine
 + Languages: Indonesian (native), Malay (native), English (fluent), Chinese (intermediate), Javanese (beginner)
   
 ##### GRANTS & AWARDS
