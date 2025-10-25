@@ -3,7 +3,7 @@ title: "Location"
 aliases:
     - /contact.html
 hidemeta: true
-description: "My mailing and office addresses at Johns Hopkins University."
+description: "My mailing and office address at XTBG, CAS"
 
 ---
 
@@ -11,16 +11,14 @@ description: "My mailing and office addresses at Johns Hopkins University."
 
 #### Mailing address
 
-Department of Economics  <br>
-Johns Hopkins University <br>
-3100 Wyman Park Dr Blvd<br>
-Baltimore, MD 21211
+Research Centre of Xishuangbanna Tropical Botanical Garden, Chinese Academy of Sciences, 213 National Road, Menglun, Mengla, Xishuangbanna Dai Autonomous Region, Yunnan 666303, China
+中国云南省西双版纳傣族自治州勐腊县勐仑镇213国通中国科学院西双版纳热带植物园科研中心
 
 ---
 
 #### Office address
 
-Room 535  <br>
-Wyman Park Building <br>
-Johns Hopkins University
+Third Floor  <br>
+Administration Building <br>
+Xishuangbanna Tropical Botanical Garden, CAS
 
