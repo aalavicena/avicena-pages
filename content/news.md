@@ -8,18 +8,12 @@ description: "News"
 ---
 
 ---
-💼 09/2025 &nbsp; Started a new position as Postdoctoral Fellow at the **Johns Hopkins University** <br>
+✨ 10/2025 &nbsp; "Emerging Applications of Large Language Models in Ecology and Conservation Science" received a minor revision in **Conservation Biology**! Things are very optimistic! <br>
 <br>
-✨ 07/2025 &nbsp; "Bayesian Model Comparison for Large Bayesian VARs after the COVID-19 Pandemic" has been accepted by the **Journal of Econometrics**<br>
+✨ 09/2025 &nbsp; "Living with elephants: Deep learning models performance in examining Asian elephant (Elephas maximus) sounds from Sri Lanka and Malaysia with considerations for application" published in **Biological Conservation**! <br>
 <br>
-🎓 06/2025 &nbsp; Successfully defended my PhD thesis, **Flexible Bayesian Time-Series Models in a Data-Rich Environment**<br>
+💼 04/2025 &nbsp; Organized Asian Elephant Experts Meeting, met with leading elephant experts from across Asia! <br>
 <br>
-📣 11/2024 &nbsp; Presentation at SEA 94th Annual Meeting, received the **Graduate Student Award**<br>
+✨ 12/2024 &nbsp; Presented a poster in XTBG Annual Conference 2024 <br>
 <br>
-✨ 11/2024 &nbsp; "Bayesian Model Comparison for Large Bayesian VARs after the COVID-19 Pandemic" received an R&R from the **Journal of Econometrics**<br>
-<br>
-📣 10/2024 &nbsp; Presentation and poster session at NABE Tech Economics Conference 2024<br>
-<br>
-📣 08/2024 &nbsp; Presentation at the European Central Bank DG-E Internal Seminar<br>
-<br>
-💼 07/2024 &nbsp; Started an internship at the **European Central Bank** <br>
+✨ 05/2024 &nbsp; Published a paper in **Lecture Notes in Artificial Intelligence!** <br>
