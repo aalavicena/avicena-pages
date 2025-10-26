@@ -88,7 +88,7 @@ params:
 #              url: archive/
     socialIcons:
         - name: CV
-          url: content/cv/CV-Naufal.pdf
+          url: cv/CV-Naufal.pdf
         - name: Email
           url: mailto:naufalrahmanavicena@gmail.com
         - name: Location
