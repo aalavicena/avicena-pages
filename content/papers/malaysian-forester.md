@@ -1,6 +1,6 @@
 ---
 title: "The Use of Bioacoustics in Biodiversity Monitoring and Wildlife Conservation in Panti Forest Reserve, Johor"
-weight: 4
+weight: 3
 author: "Loo, YY; **Avicena, NR**; Thong, N; _et al._, Malaysian Forester"
 date: 2025-01-01
 
