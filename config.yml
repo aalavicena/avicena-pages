@@ -91,8 +91,8 @@ params:
           url: cv/CV-Naufal.pdf
         - name: Email
           url: mailto:naufalrahmanavicena@gmail.com
-        - name: Location
-          url: location/
+        - name: LinkedIn
+          url: https://www.linkedin.com/in/naufal-rahman-avicena-37b789164/
 #        - name: Office Hours
 #          url: officehours/
         - name: Google Scholar
