@@ -7,14 +7,14 @@ description: "A brief introduction of Naufal Rahman Avicena."
 
 Hi there! Welcome to my website.
 
-## Current
+###### Current
 - I am from Yogyakarta, Indonesia, but spent most of my life in Kuala Lumpur, Malaysia.
 - Currently studying **Master's in Ecology at the Xishuangbanna Tropical Botanical Garden (XTBG), Chinese Academy of Sciences**.
 - Expected to graduate in **June 2026**.
 - Research interests: Intersection between **human-wildlife conflict (HWC) and AI**, and **broad-scale geospatial analysis of HWC**.
 - Master's Thesis: **Drivers and outlook of Elephant-caused human casualties in Tropical Asia** (paper incoming!), supervised by Prof. [Ahimsa Campos-Arceiz](https://scholar.google.com/citations?user=cup55xsAAAAJ&hl=en).
 
-## Past
+###### Past
 - Obtained **BSc. (Hons) in Environmental Science (First Class) from the University of Nottingham Malaysia** in 2022.
 - Worked as a research associate after my graduation, involved in the development of an elephant early warning system.
 
