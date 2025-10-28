@@ -48,3 +48,20 @@ Notable Repositories:
 + ANSO: Master's Research Grant, 2022-2026, ~CNY 12,000 / ~USD 1,600
 + Chinese Academy of Sciences: CAS-ANSO Scholarship for Young Talents, 2022, Fully-funded scholarship to pursue degree study in China
 
+
+##### GALLERY
+
+[04/2025] Met with Prof. [Ruth Padel](https://www.ruthpadel.com) from Cambridge University and had a one-to-one session on poetry feedback :D
+
+![](/ruth-padel.jpg)
+
+[04/2025] Attended Asian elephant expert meeting.
+
+![](/ele-meeting.jpg)
+
+[01/2022] Missing my bioacoustics project fieldwork team... picture at Belum-Temengor Forest Reserve
+
+![](fieldwork-team.jpg)
+
+[??/2021] My personal favorite, waiting for rain to stop during pig-tailed macaque fieldwork in 2021. @ Segari-Melintang Forest Reserve
+
