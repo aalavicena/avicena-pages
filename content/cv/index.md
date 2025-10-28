@@ -53,11 +53,11 @@ Notable Repositories:
 
 [04/2025] Met with Prof. [Ruth Padel](https://www.ruthpadel.com) from Cambridge University and had a one-to-one session on poetry feedback :D
 
-![](/ruth-padel.jpg)
+![](ruth-padel.jpg)
 
 [04/2025] Attended Asian elephant expert meeting.
 
-![](/ele-meeting.jpg)
+![](ele-meeting.jpg)
 
 [01/2022] Missing my bioacoustics project fieldwork team... picture at Belum-Temengor Forest Reserve
 
@@ -65,3 +65,4 @@ Notable Repositories:
 
 [??/2021] My personal favorite, waiting for rain to stop during pig-tailed macaque fieldwork in 2021. @ Segari-Melintang Forest Reserve
 
+![](rain-motor.jpg)
