@@ -11,13 +11,13 @@ Hi there! Welcome to my website.
 - I am from Yogyakarta, Indonesia, but spent most of my life in Kuala Lumpur, Malaysia.
 - Currently studying **Master's in Ecology** at the **Xishuangbanna Tropical Botanical Garden (XTBG), Chinese Academy of Sciences**.
 - Expected to graduate in **June 2026**.
-- Research interests: Intersection between **human-wildlife conflict (HWC) and AI**, and **broad-scale geospatial analysis of HWC**.
+- Research interests: Intersection between **human-wildlife conflict (HWC) and AI**, and **broad-scale impact of HWC**.
 - **Master's Thesis**: Drivers and outlook of Elephant-caused human casualties in Tropical Asia (paper incoming!), supervised by Prof. [Ahimsa Campos-Arceiz](https://scholar.google.com/citations?user=cup55xsAAAAJ&hl=en).
 
 ###### Past
 - Obtained **BSc (Hons) in Environmental Science (First Class)** from the **University of Nottingham Malaysia** in 2022.
 - Worked as a research associate after my graduation, involved in the development of an elephant early warning system, meta-analysis of mangrove population genetics, and game-based conservation education project.
-- **BSc Thesis**: CNN-based elephant and non-elephant sound classifier (published in Biological Conservation), supervised by Dr. [Ee Phin Wong](https://www.nottingham.ac.uk/news/expertiseguide/geography/dr-ee-phin-wong.aspx), Dr. [Loo Yen Yi](https://scholar.google.com/citations?user=NMHt1EsAAAAJ&hl=en), and Prof. [Tomas Maul](https://scholar.google.com/citations?user=ckZuLUgAAAAJ&hl=en).
+- **BSc Thesis**: CNN-based elephant and non-elephant sound classifier, supervised by Dr. [Ee Phin Wong](https://www.nottingham.ac.uk/news/expertiseguide/geography/dr-ee-phin-wong.aspx), Dr. [Loo Yen Yi](https://scholar.google.com/citations?user=NMHt1EsAAAAJ&hl=en), and Prof. [Tomas Maul](https://scholar.google.com/citations?user=ckZuLUgAAAAJ&hl=en).
 
 Outside of research, I play football with the XTBG Team as a right winger (RW). I also enjoy long-distance runs and reading books, with a particular fondness towards classical literature. Authors that inspired my writing style include Anton Chekhov and Ahmad Tohari.
 
