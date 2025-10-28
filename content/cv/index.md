@@ -17,8 +17,9 @@ Hi there! Welcome to my website.
 ###### Past
 - Obtained **BSc (Hons) in Environmental Science (First Class)** from the **University of Nottingham Malaysia** in 2022.
 - Worked as a research associate after my graduation, involved in the development of an elephant early warning system, meta-analysis of mangrove population genetics, and game-based conservation education project.
+- **BSc Thesis**: CNN-based elephant and non-elephant sound classifier (published in Biological Conservation), supervised by Dr. [Ee Phin Wong](https://www.nottingham.ac.uk/news/expertiseguide/geography/dr-ee-phin-wong.aspx), Dr. [Loo Yen Yi](https://scholar.google.com/citations?user=NMHt1EsAAAAJ&hl=en), and Prof. [Tomas Maul](https://scholar.google.com/citations?user=ckZuLUgAAAAJ&hl=en).
 
-Outside of research, I play football with the XTBG Team, playing as a right winger (RW). I also enjoy long-distance runs and reading books, with a particular fondness towards classical literature. Authors that inspired my writing style include Anton Chekhov and Ahmad Tohari.
+Outside of research, I play football with the XTBG Team as a right winger (RW). I also enjoy long-distance runs and reading books, with a particular fondness towards classical literature. Authors that inspired my writing style include Anton Chekhov and Ahmad Tohari.
 
 See my CV below:
 
@@ -28,7 +29,7 @@ Notable Repositories:
 
 + [Elephant-caused human casualties; R](https://github.com/aalavicena/Elephant-Attacks-Asia)
 + [Deep learning-based elephant vocalizations identification; Python](https://github.com/aalavicena/Deep-Learning-Elephant-Bioacoustics)
-+ [Wildlife attack data annotation from cc-news using LLMs; Python](https://github.com/aalavicena/wildlife-attacks-news-filter)
++ [Wildlife attack data annotation from cc-news using LLMs; Python (in progress)](https://github.com/aalavicena/wildlife-attacks-news-filter)
 
 <!--+ [Download Resume](/Resume0629.pdf)-->
 ##### EDUCATION
@@ -55,7 +56,7 @@ Notable Repositories:
 
 ![](ruth-padel.jpg)
 
-[04/2025] Attended Asian elephant expert meeting.
+[04/2025] Attended Asian elephant expert meeting
 
 ![](ele-meeting.jpg)
 
