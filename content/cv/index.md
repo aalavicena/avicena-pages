@@ -5,27 +5,23 @@ description: "A brief introduction of Naufal Rahman Avicena."
 ---
 ##### SUMMARY
 
-Hi there! Welcome to my website.
+Hi! Welcome to my website.
 
 ###### Current
-- I am from Yogyakarta, Indonesia, but spent most of my life in Kuala Lumpur, Malaysia.
-- Currently studying **Master's in Ecology** at the **Xishuangbanna Tropical Botanical Garden (XTBG), Chinese Academy of Sciences**.
-- Expected to graduate in **June 2026**.
-- Research interests: Intersection between **human-wildlife conflict (HWC) and AI**, and **broad-scale impact of HWC**.
-- **Master's Thesis**: Drivers and outlook of Elephant-caused human casualties in Tropical Asia (paper incoming!), supervised by Prof. [Ahimsa Campos-Arceiz](https://scholar.google.com/citations?user=cup55xsAAAAJ&hl=en).
+- I am strongly rooted in Southeast Asia, having born in Yogyakarta, Indonesia, and grew up in Kuala Lumpur, Malaysia.
+- Studied **Master's in Ecology** at the **Xishuangbanna Tropical Botanical Garden (XTBG), Chinese Academy of Sciences**. Graduated with distinction.
+- **Research interests**: Human-wildlife conflict, risk economics, artificial intelligence (deep learning and large language models)
+- **Master's Thesis**: The human costs of elephant-caused casualties in Tropical Asia. [Preprint](https://www.researchsquare.com/article/rs-8113717/v1). Supervised by Prof. Ahimsa Campos-Arceiz.
 
 ###### Past
 - Obtained **BSc (Hons) in Environmental Science (First Class)** from the **University of Nottingham Malaysia** in 2022.
 - Worked as a research associate after my graduation, involved in the development of an elephant early warning system, meta-analysis of mangrove population genetics, and game-based conservation education project.
-- **BSc Thesis**: CNN-based elephant and non-elephant sound classifier, supervised by Dr. [Ee Phin Wong](https://www.nottingham.ac.uk/news/expertiseguide/geography/dr-ee-phin-wong.aspx), Dr. [Loo Yen Yi](https://scholar.google.com/citations?user=NMHt1EsAAAAJ&hl=en), and Prof. [Tomas Maul](https://scholar.google.com/citations?user=ckZuLUgAAAAJ&hl=en).
+- **BSc Thesis**: CNN-based elephant and non-elephant sound classifier. [Paper](https://www.sciencedirect.com/science/article/pii/S000632072500309X). Supervised by Dr. Ee Phin Wong, Prof. Tomas Maul, and Dr. Loo Yen Yi.
 
 Outside of research, I play football with the XTBG Team as a right winger (RW). I also enjoy long-distance runs and reading books, with a particular fondness towards classical literature. Authors that inspired my writing style include Anton Chekhov and Ahmad Tohari.
 
-See my CV below:
 
-+ [Download CV](CV-Naufal.pdf)
-
-Notable Repositories:
+**Notable Repositories**:
 
 + [Elephant-caused human casualties; R](https://github.com/aalavicena/Elephant-Attacks-Asia)
 + [Deep learning-based elephant vocalizations identification; Python](https://github.com/aalavicena/Deep-Learning-Elephant-Bioacoustics)
